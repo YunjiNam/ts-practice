@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "tsc-watch --onSuccess"
+    "start": "tsc-watch --onSuccess \" node dist/index.js\" "
   },
   "devDependencies": {
     "tsc-watch": "^4.2.9",
